@@ -1,0 +1,11 @@
+IndentWidth: "4"
+AlignTrailingComments: "true"
+BreakBeforeBraces: "Custom"
+BraceWrapping: {
+    "AfterClass": "true",
+    "AfterFunction": "true",
+    "AfterControlStatement": "false"
+}
+SpaceBeforeParens: "ControlStatements"
+SpacesInAngles: "true"
+ColumnLimit: "140"

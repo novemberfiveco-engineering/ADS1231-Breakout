@@ -1,0 +1,3 @@
+ADS1231 KEYWORD1
+begin   KEYWORD2
+read    KEYWORD2
